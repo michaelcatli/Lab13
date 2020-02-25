@@ -1,6 +1,5 @@
 public abstract interface TrackTeams{
   public abstract void practice();
-  public abstract void diet();
   public abstract void highschool();
   public abstract void coach();
   public abstract void uniform();
