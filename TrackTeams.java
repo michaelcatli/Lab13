@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public interface TrackTeams{
+public interface TrackTeams<String>{
   public void practice();
   public void highschool();
   public void coach();

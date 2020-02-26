@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class Sprinters extends VernonTrack{
+public class Sprinters<String> extends VernonTrack<String>{
   public Sprinters()
   {
     super();

@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class Jumpers extends VernonTrack
+public class Jumpers<String> extends VernonTrack<String>
 {
   public Jumpers()
   {

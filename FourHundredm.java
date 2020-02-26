@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class FourHundredm extends VernonTrack
+public class FourHundredm<String> extends VernonTrack<String>
 {
   public FourHundredm()
   {

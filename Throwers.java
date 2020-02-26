@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class Throwers extends VernonTrack
+public class Throwers<String> extends VernonTrack<String>
 {
   public Throwers()
   {
